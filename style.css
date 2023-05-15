@@ -1,0 +1,5 @@
+.card{
+    text-align:center;
+    margin: 10px;
+    background-image: linear-gradient(135deg, grey ,rgb(171, 176, 97),rgb(155, 92, 167));
+}
